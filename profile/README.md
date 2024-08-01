@@ -19,3 +19,5 @@ Nucleon EDR is a next-generation endpoint security solution powered by multilaye
 Nucleon Malprob is an AI-as-a-service solution dedicated to malware detection. It supports various file types, including PE, ELF, Mach-O, JARs, script files, PDFs, Office documents, and more.
 
 
+# The team
+Nucleon Security is a team of cybersecurity engineers, data scientists, data and software engineers. It was founded by Anass CHANAA and Antoine BOTTE .
