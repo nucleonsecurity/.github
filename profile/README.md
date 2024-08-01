@@ -12,10 +12,10 @@ Nucleon Security is a cybersecurity solutions editor. Its main product is Nucleo
 </p>
 Nucleon EDR is a next-generation endpoint security solution powered by multilayer Zero Trust paradigm and AI. It has four main features :
 
-- ■ **Prevention:** By being the first EDR to implement the Zero Trust paradigm.
-- ■ **Detection:** Using AI for static file analysis.
-- ■ **Response:** Offering a console where the administrator has full control and a clear vision of the network of endpoints.
-- ■ **Remediation:** This EDR is resilient; even if an attack takes place, it offers the possibility to restore what is infected.
+- **Prevention:** By being the first EDR to implement the Zero Trust paradigm.
+- **Detection:** Using AI for malware detection by file static analysis.
+- **Response:** Offering a console where the administrator has full control and a clear vision of the network of endpoints.
+- **Remediation:** This EDR is resilient; even if an attack takes place, it offers the possibility to restore what is infected.
 
 # Nucleon Malprob
 <p align="center">
