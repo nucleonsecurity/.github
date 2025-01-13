@@ -22,6 +22,7 @@ Nucleon EDR is a next-generation endpoint security solution powered by multilaye
   <img src="./malprob.png" alt="Example Image" title="This is an example image"/>
 </p>
 Nucleon Malprob is an AI-as-a-service solution dedicated to malware detection. It supports various file types, including PE, ELF, Mach-O, JARs, script files, PDFs, Office documents, and more. Also it can extract IoCs from the files and provide a detailed report about the file. 
+[Product link](https://malprob.io/)
 
 
 
