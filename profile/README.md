@@ -32,6 +32,18 @@ Tech-talks is a series of webinars hosted by Nucleon Security. To share its know
 
 ## Acheivements
 
+- **Microsoft Virus Initiative (MVI) Certification** - *last updated: 2024-09-22*
+
+**Nucleon Security** has achieved a significant milestone by obtaining certification from the **Microsoft Virus Initiative (MVI)**, with both our solutions—**EDR** and **Malprob**—earning the highest **AAA rating**. This certification, awarded through rigorous testing by the independent and renowned **West Coast Labs (WCL)**, validates our technologies for both **Malware Detection** and **Malware Remediation**.  
+
+This achievement underscores our commitment to delivering cutting-edge cybersecurity solutions that meet the highest industry standards for protecting organizations against threats. The validation from WCL highlights our capacity to provide reliable, efficient, and scalable protection.  
+
+Check out more details below to read more about the WCL report:  
+
+> [Nucleon Security achieves AAA rating in the WCL independent testing report for EDR and Malprob solutions](https://www.westcoastlabs.com/wclvalid/nucleon)  
+
+Let me know if this structure fits your vision!
+
 - **GITEX AFRICA Supernova Challenge,** *Cybersecurity category*
 
 **Nucleon Security** has secured a prestigious win in the ***Cybersecurity category*** at the **GITEX AFRICA *Supernova Challenge***, earning an impressive **$10,000 prize**. This accomplishment is a testament to the unwavering commitment to innovation and excellence in safeguarding digital landscapes. The dedicated team has demonstrated remarkable expertise in developing cutting-edge solutions that protect organizations and individuals from emerging cyber threats.
