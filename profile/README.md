@@ -21,14 +21,14 @@ Nucleon EDR is a next-generation endpoint security solution powered by multilaye
 </p>
 Nucleon Malprob is an AI-as-a-service solution dedicated to malware detection. It supports various file types, including PE, ELF, Mach-O, JARs, script files, PDFs, Office documents, and more. Also it can extract IoCs from the files and provide a detailed report about the file. 
 
-[Product link](https://malprob.io/)
+[Malprob link](https://malprob.io/)
 
 ## Public Repositories
 ### [Nucleon Watcher](https://github.com/nucleonsecurity/nucleon-watcher)
 Nucleon watcher is a File detection and response tool that helps you to find malicious files inside a specific directory. Using Nucleon malprob API, Nucleon watcher scans the files and returns the result to the user. Nucleon watcher is a command line tool that can be used in different platform.
 
 ### [Tech-Talks](https://github.com/nucleonsecurity/tech-talks)
-Tech-talks is a series of webinars hosted by Nucleon Security. To share its knowledge and expertise in the field of cybersecurity, software egineering ,data engineering , AI and more/. This repository serves as a centralized hub for all resources related to Nucleon-security webinars. It includes webinar recordings, presentation slides, documentation, Q&A sessions, and additional materials from past and future webinars.
+Tech-talks is a series of webinars hosted by Nucleon Security. To share its knowledge and expertise in the field of cybersecurity, software egineering ,data engineering , AI and more. This repository serves as a centralized hub for all resources related to Nucleon-security webinars. It includes webinar recordings, presentation slides, documentation, Q&A sessions, and additional materials from past and future webinars.
 
 ## Acheivements
 
