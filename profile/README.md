@@ -42,8 +42,6 @@ Check out more details below to read more about the WCL report:
 
 > [Nucleon Security achieves AAA rating in the WCL independent testing report for EDR and Malprob solutions](https://www.westcoastlabs.com/wclvalid/nucleon)  
 
-Let me know if this structure fits your vision!
-
 - **GITEX AFRICA Supernova Challenge,** *Cybersecurity category*
 
 **Nucleon Security** has secured a prestigious win in the ***Cybersecurity category*** at the **GITEX AFRICA *Supernova Challenge***, earning an impressive **$10,000 prize**. This accomplishment is a testament to the unwavering commitment to innovation and excellence in safeguarding digital landscapes. The dedicated team has demonstrated remarkable expertise in developing cutting-edge solutions that protect organizations and individuals from emerging cyber threats.
