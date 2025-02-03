@@ -34,7 +34,7 @@ Tech-talks is a series of webinars hosted by Nucleon Security. To share its know
 
 - **Microsoft Virus Initiative (MVI) Membership** - *last updated: 2024-09-22*
 
-**Nucleon Security** has achieved a significant milestone by becoming a memeber of the **Microsoft Virus Initiative (MVI)**, after both our solutions—**EDR** and **Malprob**—earned the highest **AAA rating** in the **West Coast Labs (WCL)** report. This membership, and this rating was awarded through rigorous testing by the independent and renowned **WCL**, validates our technologies for both **Malware Detection** and **Malware Remediation**.  
+**Nucleon Security** has achieved a significant milestone by becoming a memeber of the **Microsoft Virus Initiative (MVI)**, after both our solutions (**EDR** and **Malprob**) earned the highest **AAA rating** in the **West Coast Labs (WCL)** report. This membership, and this rating was awarded through rigorous testing by the independent and renowned **WCL**, validates our technologies for both **Malware Detection** and **Malware Remediation**.  
 
 This achievement underscores our commitment to delivering cutting-edge cybersecurity solutions that meet the highest industry standards for protecting organizations against threats. The validation from WCL highlights our capacity to provide reliable, efficient, and scalable protection.  
 
