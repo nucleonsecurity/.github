@@ -23,6 +23,19 @@ Nucleon Malprob is an AI-as-a-service solution dedicated to malware detection. I
 
 [Malprob link](https://malprob.io/)
 
+## Nucleon CyclonShield MDR
+Nucleon CyclonShield MDR is a managed detection and response service designed to neutralize attacks before they impact your operations. It combines continuous monitoring, advanced behavioral analysis, and end-to-end handling of cybersecurity incidents. Our experts ensure immediate 24/7 response, delivering effective protection with no added burden on your internal teams.
+
+## ScorX
+#### AI-Powered Event Scoring Without Context
+ScorX introduces a disruptive, patented approach to threat 
+detection through decontextualized scoring.
+- **Zero Trust Based Training Data:** Ensures data integrity and security by applying Zero Trust principles to the AI training process.
+- **Pre-Correlation Analysis:** Enhances existing SIEM/XDR capabilities by detecting anomalies before traditional correlation takes place.
+- **Proactive Threat Identification:** Identifies emerging threats and suspicious behaviors that rule based systems might miss.
+- **Intelligent Alert Prioritization:** Assigns scores to events, allowing SOC teams to focus on the most critical threats first.
+- **Reduced Noise, Enhanced SOC Efficiency:** Filters out false positives and irrelevant alerts, improving operational effectiveness.
+
 ## Public Repositories
 ### [Nucleon Watcher](https://github.com/nucleonsecurity/nucleon-watcher)
 Nucleon watcher is a File detection and response tool that helps you to find malicious files inside a specific directory. Using Nucleon malprob API, Nucleon watcher scans the files and returns the result to the user. Nucleon watcher is a command line tool that can be used in different platform.
